@@ -27,7 +27,7 @@ On appropriately processed tissues, this tool can vastly simplify and accelerate
 the tissues analyzed, however, it should only be used to compare tissues processed with the same staining protocol and/or sections that have been stain-normalized to the 
 same standard image.
 
-See [INSERT ARTICLE LINK] for details.
+See [https://www.nature.com/articles/s41586-021-03827-2] for details.
 
 
 ## Contact
